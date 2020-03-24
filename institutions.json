@@ -1,0 +1,32 @@
+{
+  "institutions": [
+    {
+      "name": "Háskóli Íslands",
+      "code": "hi",
+      "divisions": [
+        {
+          "name": "Nörd",
+          "code": "nord"
+        },
+        {
+          "name": "Vír",
+          "code": "vir"
+        }
+      ]
+    },
+    {
+      "name": "Háskólinn í Reykjavík",
+      "code": "hr",
+      "divisions": [
+        {
+          "name": "Tvíund",
+          "code": "tviund"
+        },
+        {
+          "name": "Lögrétta",
+          "code": "logretta"
+        }
+      ]
+    }
+  ]
+}
