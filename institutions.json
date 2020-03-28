@@ -3,6 +3,7 @@
     {
       "name": "Háskóli Íslands",
       "code": "hi",
+      "enrollment: 13333,
       "divisions": [
         {
           "name": "Nörd",
@@ -17,6 +18,7 @@
     {
       "name": "Háskólinn í Reykjavík",
       "code": "hr",
+      "enrollment": 3500,
       "divisions": [
         {
           "name": "Tvíund",
