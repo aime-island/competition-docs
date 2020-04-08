@@ -1,543 +1,9 @@
 {
-  "institutions": [
-    {
-      "name": "Fellaskóli (Reykjavík)",
-      "code": "(reyk70",
-      "enrollment": 325,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn í Sandgerði",
-      "code": "sandg78",
-      "enrollment": 256,
-      "divisions": []
-    },
-    {
-      "name": "Hlíðarhúsaskóli",
-      "code": "hlíða170",
-      "enrollment": 14,
-      "divisions": []
-    },
+  "instituions": [
     {
       "name": "Akurskóli",
       "code": "akurs23",
       "enrollment": 546,
-      "divisions": []
-    },
-    {
-      "name": "Smáraskóli",
-      "code": "smára47",
-      "enrollment": 412,
-      "divisions": []
-    },
-    {
-      "name": "Árskógarskóli",
-      "code": "árskó159",
-      "enrollment": 21,
-      "divisions": []
-    },
-    {
-      "name": "Myllubakkaskóli",
-      "code": "myllu61",
-      "enrollment": 362,
-      "divisions": []
-    },
-    {
-      "name": "Snælandsskóli",
-      "code": "snæla43",
-      "enrollment": 432,
-      "divisions": []
-    },
-    {
-      "name": "Laugarnesskóli",
-      "code": "lauga22",
-      "enrollment": 547,
-      "divisions": []
-    },
-    {
-      "name": "Vesturbæjarskóli",
-      "code": "vestu66",
-      "enrollment": 351,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn á Þórshöfn",
-      "code": "þórsh125",
-      "enrollment": 76,
-      "divisions": []
-    },
-    {
-      "name": "Foldaskóli",
-      "code": "folda31",
-      "enrollment": 507,
-      "divisions": []
-    },
-    {
-      "name": "Brekkubæjarskóli",
-      "code": "brekk41",
-      "enrollment": 455,
-      "divisions": []
-    },
-    {
-      "name": "Bíldudalsskóli",
-      "code": "bíldu151",
-      "enrollment": 35,
-      "divisions": []
-    },
-    {
-      "name": "Borgarhólsskóli",
-      "code": "borga77",
-      "enrollment": 274,
-      "divisions": []
-    },
-    {
-      "name": "Blönduskóli",
-      "code": "blönd103",
-      "enrollment": 136,
-      "divisions": []
-    },
-    {
-      "name": "Klébergsskóli",
-      "code": "klébe105",
-      "enrollment": 125,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Borgarfjarðar eystri",
-      "code": "eystr167",
-      "enrollment": 5,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn á Eskifirði",
-      "code": "eskif99",
-      "enrollment": 150,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn Suðureyri",
-      "code": "suður144",
-      "enrollment": 41,
-      "divisions": []
-    },
-    {
-      "name": "Öxarfjarðarskóli",
-      "code": "öxarf157",
-      "enrollment": 24,
-      "divisions": []
-    },
-    {
-      "name": "Waldorfskólinn Sólstafir",
-      "code": "sólst119",
-      "enrollment": 91,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn í Hofgarði",
-      "code": "hofga168",
-      "enrollment": 5,
-      "divisions": []
-    },
-    {
-      "name": "Flóaskóli",
-      "code": "flóas109",
-      "enrollment": 106,
-      "divisions": []
-    },
-    {
-      "name": "Rimaskóli",
-      "code": "rimas29",
-      "enrollment": 511,
-      "divisions": []
-    },
-    {
-      "name": "Alþjóðaskólinn á Íslandi",
-      "code": "íslan118",
-      "enrollment": 92,
-      "divisions": []
-    },
-    {
-      "name": "Salaskóli",
-      "code": "salas16",
-      "enrollment": 587,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn á Tálknafirði",
-      "code": "tálkn146",
-      "enrollment": 40,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Önundarfjarðar",
-      "code": "önund160",
-      "enrollment": 18,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn í Hveragerði",
-      "code": "hvera59",
-      "enrollment": 370,
-      "divisions": []
-    },
-    {
-      "name": "Vatnsendaskóli",
-      "code": "vatns12",
-      "enrollment": 610,
-      "divisions": []
-    },
-    {
-      "name": "Hvolsskóli",
-      "code": "hvols81",
-      "enrollment": 238,
-      "divisions": []
-    },
-    {
-      "name": "Klettaskóli",
-      "code": "klett106",
-      "enrollment": 119,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Borgarfjarðar",
-      "code": "borga92",
-      "enrollment": 186,
-      "divisions": []
-    },
-    {
-      "name": "Kársnesskóli",
-      "code": "kársn17",
-      "enrollment": 583,
-      "divisions": []
-    },
-    {
-      "name": "Breiðdals-og Stöðvarfjarðarskóli",
-      "code": "stöðv155",
-      "enrollment": 26,
-      "divisions": []
-    },
-    {
-      "name": "Þjórsárskóli",
-      "code": "þjórs140",
-      "enrollment": 46,
-      "divisions": []
-    },
-    {
-      "name": "Höfðaskóli",
-      "code": "höfða123",
-      "enrollment": 78,
-      "divisions": []
-    },
-    {
-      "name": "Síðuskóli",
-      "code": "síðus58",
-      "enrollment": 372,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Vestmannaeyja",
-      "code": "vestm28",
-      "enrollment": 513,
-      "divisions": []
-    },
-    {
-      "name": "Stóru-Vogaskóli",
-      "code": "stóru95",
-      "enrollment": 168,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn Þingeyri",
-      "code": "þinge153",
-      "enrollment": 31,
-      "divisions": []
-    },
-    {
-      "name": "Flúðaskóli",
-      "code": "flúða113",
-      "enrollment": 97,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Bolungarvíkur",
-      "code": "bolun102",
-      "enrollment": 141,
-      "divisions": []
-    },
-    {
-      "name": "Seyðisfjarðarskóli",
-      "code": "seyði130",
-      "enrollment": 71,
-      "divisions": []
-    },
-    {
-      "name": "Giljaskóli",
-      "code": "gilja55",
-      "enrollment": 394,
-      "divisions": []
-    },
-    {
-      "name": "Melaskóli",
-      "code": "melas15",
-      "enrollment": 592,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Grindavíkur",
-      "code": "grind30",
-      "enrollment": 509,
-      "divisions": []
-    },
-    {
-      "name": "Auðarskóli",
-      "code": "auðar120",
-      "enrollment": 90,
-      "divisions": []
-    },
-    {
-      "name": "Lágafellsskóli",
-      "code": "lágaf6",
-      "enrollment": 685,
-      "divisions": []
-    },
-    {
-      "name": "Austurbæjarskóli",
-      "code": "austu45",
-      "enrollment": 415,
-      "divisions": []
-    },
-    {
-      "name": "Barnaskóli Hjallastefnunnar við Hjallabraut",
-      "code": "hjall129",
-      "enrollment": 71,
-      "divisions": []
-    },
-    {
-      "name": "Árbæjarskóli",
-      "code": "árbæj11",
-      "enrollment": 626,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Fjallabyggðar",
-      "code": "fjall89",
-      "enrollment": 204,
-      "divisions": []
-    },
-    {
-      "name": "Lindaskóli",
-      "code": "linda36",
-      "enrollment": 488,
-      "divisions": []
-    },
-    {
-      "name": "Selásskóli",
-      "code": "selás88",
-      "enrollment": 206,
-      "divisions": []
-    },
-    {
-      "name": "Súðavíkurskóli",
-      "code": "súðav156",
-      "enrollment": 24,
-      "divisions": []
-    },
-    {
-      "name": "Laugargerðisskóli",
-      "code": "lauga162",
-      "enrollment": 14,
-      "divisions": []
-    },
-    {
-      "name": "Hofsstaðaskóli",
-      "code": "hofss18",
-      "enrollment": 577,
-      "divisions": []
-    },
-    {
-      "name": "Valsárskóli",
-      "code": "valsá135",
-      "enrollment": 55,
-      "divisions": []
-    },
-    {
-      "name": "Ingunnarskóli",
-      "code": "ingun56",
-      "enrollment": 391,
-      "divisions": []
-    },
-    {
-      "name": "Skarðshlíðarskóli",
-      "code": "skarð100",
-      "enrollment": 144,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn á Hellu",
-      "code": "hellu107",
-      "enrollment": 119,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn í Þorlákshöfn",
-      "code": "þorlá83",
-      "enrollment": 221,
-      "divisions": []
-    },
-    {
-      "name": "Grundaskóli",
-      "code": "grund10",
-      "enrollment": 638,
-      "divisions": []
-    },
-    {
-      "name": "Kelduskóli",
-      "code": "keldu63",
-      "enrollment": 358,
-      "divisions": []
-    },
-    {
-      "name": "Nesskóli",
-      "code": "nessk87",
-      "enrollment": 217,
-      "divisions": []
-    },
-    {
-      "name": "Sunnulækjarskóli",
-      "code": "sunnu4",
-      "enrollment": 711,
-      "divisions": []
-    },
-    {
-      "name": "Laugalækjarskóli",
-      "code": "lauga69",
-      "enrollment": 326,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Djúpavogs/Djúpavogsskóli",
-      "code": "djúpa126",
-      "enrollment": 75,
-      "divisions": []
-    },
-    {
-      "name": "Laugalandsskóli í Holtum",
-      "code": "holtu127",
-      "enrollment": 75,
-      "divisions": []
-    },
-    {
-      "name": "Hlíðaskóli",
-      "code": "hlíða37",
-      "enrollment": 485,
-      "divisions": []
-    },
-    {
-      "name": "Garðaskóli",
-      "code": "garða24",
-      "enrollment": 529,
-      "divisions": []
-    },
-    {
-      "name": "Vopnafjarðarskóli",
-      "code": "vopna122",
-      "enrollment": 79,
-      "divisions": []
-    },
-    {
-      "name": "Hraunvallaskóli",
-      "code": "hraun3",
-      "enrollment": 798,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn á Hólmavík",
-      "code": "hólma141",
-      "enrollment": 44,
-      "divisions": []
-    },
-    {
-      "name": "Patreksskóli",
-      "code": "vestu114",
-      "enrollment": 95,
-      "divisions": []
-    },
-    {
-      "name": "Krikaskóli",
-      "code": "krika108",
-      "enrollment": 109,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Reyðarfjarðar",
-      "code": "reyða86",
-      "enrollment": 217,
-      "divisions": []
-    },
-    {
-      "name": "Fossvogsskóli",
-      "code": "fossv64",
-      "enrollment": 357,
-      "divisions": []
-    },
-    {
-      "name": "Heiðarskóli (Reykjanesbæ)",
-      "code": "(reyk49",
-      "enrollment": 406,
-      "divisions": []
-    },
-    {
-      "name": "Húsaskóli",
-      "code": "húsas96",
-      "enrollment": 165,
-      "divisions": []
-    },
-    {
-      "name": "Framsýn - menntun",
-      "code": "mennt134",
-      "enrollment": 59,
-      "divisions": []
-    },
-    {
-      "name": "Glerárskóli",
-      "code": "glerá71",
-      "enrollment": 325,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn í Stykkishólmi",
-      "code": "stykk97",
-      "enrollment": 155,
-      "divisions": []
-    },
-    {
-      "name": "Ölduselsskóli",
-      "code": "öldus38",
-      "enrollment": 482,
-      "divisions": []
-    },
-    {
-      "name": "Sæmundarskóli",
-      "code": "sæmun35",
-      "enrollment": 489,
-      "divisions": []
-    },
-    {
-      "name": "Öldutúnsskóli",
-      "code": "öldut20",
-      "enrollment": 568,
-      "divisions": []
-    },
-    {
-      "name": "Barnaskóli Hjallastefnunnar á Vífilsstöðum",
-      "code": "vífil133",
-      "enrollment": 59,
-      "divisions": []
-    },
-    {
-      "name": "Lækjarskóli",
-      "code": "lækja33",
-      "enrollment": 498,
       "divisions": []
     },
     {
@@ -547,33 +13,33 @@
       "divisions": []
     },
     {
+      "name": "Álftanesskóli",
+      "code": "álfta53",
+      "enrollment": 398,
+      "divisions": []
+    },
+    {
+      "name": "Alþjóðaskólinn á Íslandi",
+      "code": "íslan118",
+      "enrollment": 92,
+      "divisions": []
+    },
+    {
+      "name": "Árbæjarskóli",
+      "code": "árbæj11",
+      "enrollment": 626,
+      "divisions": []
+    },
+    {
       "name": "Arnarskóli",
       "code": "arnar165",
       "enrollment": 8,
       "divisions": []
     },
     {
-      "name": "Brekkuskóli",
-      "code": "brekk32",
-      "enrollment": 500,
-      "divisions": []
-    },
-    {
-      "name": "Hrafnagilsskóli",
-      "code": "hrafn101",
-      "enrollment": 144,
-      "divisions": []
-    },
-    {
-      "name": "Breiðholtsskóli",
-      "code": "breið51",
-      "enrollment": 401,
-      "divisions": []
-    },
-    {
-      "name": "Húnavallaskóli",
-      "code": "húnav149",
-      "enrollment": 37,
+      "name": "Árskógarskóli",
+      "code": "árskó159",
+      "enrollment": 21,
       "divisions": []
     },
     {
@@ -583,57 +49,111 @@
       "divisions": []
     },
     {
-      "name": "Víðistaðaskóli",
-      "code": "víðis5",
-      "enrollment": 702,
+      "name": "Ártúnsskóli",
+      "code": "ártún93",
+      "enrollment": 185,
       "divisions": []
     },
     {
-      "name": "Vættaskóli",
-      "code": "vætta40",
-      "enrollment": 465,
+      "name": "Áslandsskóli",
+      "code": "áslan27",
+      "enrollment": 519,
       "divisions": []
     },
     {
-      "name": "Háaleitisskóli (Reykjanesbæ)",
-      "code": "(reyk74",
-      "enrollment": 290,
+      "name": "Auðarskóli",
+      "code": "auðar120",
+      "enrollment": 90,
       "divisions": []
     },
     {
-      "name": "Dalskóli",
-      "code": "dalsk75",
-      "enrollment": 285,
+      "name": "Austurbæjarskóli",
+      "code": "austu45",
+      "enrollment": 415,
       "divisions": []
     },
     {
-      "name": "Grandaskóli",
-      "code": "grand68",
-      "enrollment": 345,
+      "name": "Barnaskóli Hjallastefnunnar á Vífilsstöðum",
+      "code": "vífil133",
+      "enrollment": 59,
       "divisions": []
     },
     {
-      "name": "Norðlingaskóli",
-      "code": "norðl13",
-      "enrollment": 607,
+      "name": "Barnaskóli Hjallastefnunnar Reykjavík",
+      "code": "reykj117",
+      "enrollment": 93,
       "divisions": []
     },
     {
-      "name": "Naustaskóli",
-      "code": "naust54",
-      "enrollment": 397,
+      "name": "Barnaskóli Hjallastefnunnar við Hjallabraut",
+      "code": "hjall129",
+      "enrollment": 71,
       "divisions": []
     },
     {
-      "name": "Grunnskólinn á Raufarhöfn",
-      "code": "raufa164",
-      "enrollment": 11,
+      "name": "Barnaskólinn á Eyrarbakka og Stokkseyri",
+      "code": "stokk104",
+      "enrollment": 128,
       "divisions": []
     },
     {
-      "name": "Reykjahlíðarskóli",
-      "code": "reykj152",
+      "name": "Bíldudalsskóli",
+      "code": "bíldu151",
       "enrollment": 35,
+      "divisions": []
+    },
+    {
+      "name": "Bláskógaskóli - Laugarvatni",
+      "code": "lauga139",
+      "enrollment": 51,
+      "divisions": []
+    },
+    {
+      "name": "Bláskógaskóli - Reykholti",
+      "code": "reykh121",
+      "enrollment": 84,
+      "divisions": []
+    },
+    {
+      "name": "Blönduskóli",
+      "code": "blönd103",
+      "enrollment": 136,
+      "divisions": []
+    },
+    {
+      "name": "Borgarhólsskóli",
+      "code": "borga77",
+      "enrollment": 274,
+      "divisions": []
+    },
+    {
+      "name": "Breiðagerðisskóli",
+      "code": "breið52",
+      "enrollment": 398,
+      "divisions": []
+    },
+    {
+      "name": "Breiðdals-og Stöðvarfjarðarskóli",
+      "code": "stöðv155",
+      "enrollment": 26,
+      "divisions": []
+    },
+    {
+      "name": "Breiðholtsskóli",
+      "code": "breið51",
+      "enrollment": 401,
+      "divisions": []
+    },
+    {
+      "name": "Brekkubæjarskóli",
+      "code": "brekk41",
+      "enrollment": 455,
+      "divisions": []
+    },
+    {
+      "name": "Brekkuskóli",
+      "code": "brekk32",
+      "enrollment": 500,
       "divisions": []
     },
     {
@@ -643,9 +163,195 @@
       "divisions": []
     },
     {
-      "name": "Heiðarskóli (Leirársveit)",
-      "code": "(leir115",
+      "name": "Brúarskóli",
+      "code": "brúar154",
+      "enrollment": 28,
+      "divisions": []
+    },
+    {
+      "name": "Dalskóli",
+      "code": "dalsk75",
+      "enrollment": 285,
+      "divisions": []
+    },
+    {
+      "name": "Dalvíkurskóli",
+      "code": "dalví85",
+      "enrollment": 218,
+      "divisions": []
+    },
+    {
+      "name": "Egilsstaðaskóli",
+      "code": "egils65",
+      "enrollment": 356,
+      "divisions": []
+    },
+    {
+      "name": "Fellaskóli (Fellabæ)",
+      "code": "(fell111",
+      "enrollment": 99,
+      "divisions": []
+    },
+    {
+      "name": "Fellaskóli (Reykjavík)",
+      "code": "(reyk70",
+      "enrollment": 325,
+      "divisions": []
+    },
+    {
+      "name": "Flataskóli",
+      "code": "flata39",
+      "enrollment": 477,
+      "divisions": []
+    },
+    {
+      "name": "Flóaskóli",
+      "code": "flóas109",
+      "enrollment": 106,
+      "divisions": []
+    },
+    {
+      "name": "Flúðaskóli",
+      "code": "flúða113",
+      "enrollment": 97,
+      "divisions": []
+    },
+    {
+      "name": "Foldaskóli",
+      "code": "folda31",
+      "enrollment": 507,
+      "divisions": []
+    },
+    {
+      "name": "Fossvogsskóli",
+      "code": "fossv64",
+      "enrollment": 357,
+      "divisions": []
+    },
+    {
+      "name": "Framsýn - menntun",
+      "code": "mennt134",
+      "enrollment": 59,
+      "divisions": []
+    },
+    {
+      "name": "Garðaskóli",
+      "code": "garða24",
+      "enrollment": 529,
+      "divisions": []
+    },
+    {
+      "name": "Gerðaskóli",
+      "code": "gerða84",
+      "enrollment": 220,
+      "divisions": []
+    },
+    {
+      "name": "Giljaskóli",
+      "code": "gilja55",
+      "enrollment": 394,
+      "divisions": []
+    },
+    {
+      "name": "Glerárskóli",
+      "code": "glerá71",
+      "enrollment": 325,
+      "divisions": []
+    },
+    {
+      "name": "Grandaskóli",
+      "code": "grand68",
+      "enrollment": 345,
+      "divisions": []
+    },
+    {
+      "name": "Grenivíkurskóli",
+      "code": "greni138",
+      "enrollment": 52,
+      "divisions": []
+    },
+    {
+      "name": "Grímseyjarskóli",
+      "code": "gríms169",
+      "enrollment": 3,
+      "divisions": []
+    },
+    {
+      "name": "Grundaskóli",
+      "code": "grund10",
+      "enrollment": 638,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Bolungarvíkur",
+      "code": "bolun102",
+      "enrollment": 141,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Borgarfjarðar",
+      "code": "borga92",
+      "enrollment": 186,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Borgarfjarðar eystri",
+      "code": "eystr167",
+      "enrollment": 5,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Djúpavogs/Djúpavogsskóli",
+      "code": "djúpa126",
+      "enrollment": 75,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Fáskrúðsfjarðar",
+      "code": "fáskr116",
       "enrollment": 94,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Fjallabyggðar",
+      "code": "fjall89",
+      "enrollment": 204,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Grindavíkur",
+      "code": "grind30",
+      "enrollment": 509,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Grundarfjarðar",
+      "code": "grund112",
+      "enrollment": 97,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Hornafjarðar",
+      "code": "horna80",
+      "enrollment": 238,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Húnaþings vestra",
+      "code": "vestr98",
+      "enrollment": 151,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Önundarfjarðar",
+      "code": "önund160",
+      "enrollment": 18,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskóli Reyðarfjarðar",
+      "code": "reyða86",
+      "enrollment": 217,
       "divisions": []
     },
     {
@@ -661,309 +367,9 @@
       "divisions": []
     },
     {
-      "name": "Varmahlíðarskóli",
-      "code": "varma110",
-      "enrollment": 104,
-      "divisions": []
-    },
-    {
-      "name": "Þingeyjarskóli",
-      "code": "þinge131",
-      "enrollment": 67,
-      "divisions": []
-    },
-    {
-      "name": "Skóli Ísaks Jónssonar",
-      "code": "jónss90",
-      "enrollment": 196,
-      "divisions": []
-    },
-    {
-      "name": "Víkurskóli",
-      "code": "mýrda136",
-      "enrollment": 53,
-      "divisions": []
-    },
-    {
-      "name": "Holtaskóli",
-      "code": "holta46",
-      "enrollment": 413,
-      "divisions": []
-    },
-    {
-      "name": "Urriðaholtsskóli",
-      "code": "urrið158",
-      "enrollment": 21,
-      "divisions": []
-    },
-    {
-      "name": "Breiðagerðisskóli",
-      "code": "breið52",
-      "enrollment": 398,
-      "divisions": []
-    },
-    {
-      "name": "Réttarholtsskóli",
-      "code": "rétta57",
-      "enrollment": 391,
-      "divisions": []
-    },
-    {
-      "name": "Hagaskóli",
-      "code": "hagas19",
-      "enrollment": 575,
-      "divisions": []
-    },
-    {
-      "name": "Varmárskóli",
-      "code": "varmá1",
-      "enrollment": 931,
-      "divisions": []
-    },
-    {
-      "name": "Vogaskóli",
-      "code": "vogas72",
-      "enrollment": 309,
-      "divisions": []
-    },
-    {
-      "name": "Bláskógaskóli - Reykholti",
-      "code": "reykh121",
-      "enrollment": 84,
-      "divisions": []
-    },
-    {
-      "name": "Hörðuvallaskóli",
-      "code": "hörðu2",
-      "enrollment": 922,
-      "divisions": []
-    },
-    {
-      "name": "Seljaskóli",
-      "code": "selja9",
-      "enrollment": 642,
-      "divisions": []
-    },
-    {
-      "name": "Vallaskóli",
-      "code": "valla14",
-      "enrollment": 607,
-      "divisions": []
-    },
-    {
-      "name": "Landakotsskóli",
-      "code": "landa79",
-      "enrollment": 249,
-      "divisions": []
-    },
-    {
-      "name": "Brúarskóli",
-      "code": "brúar154",
-      "enrollment": 28,
-      "divisions": []
-    },
-    {
-      "name": "Barnaskóli Hjallastefnunnar Reykjavík",
-      "code": "reykj117",
-      "enrollment": 93,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Fáskrúðsfjarðar",
-      "code": "fáskr116",
-      "enrollment": 94,
-      "divisions": []
-    },
-    {
-      "name": "Fellaskóli (Fellabæ)",
-      "code": "(fell111",
-      "enrollment": 99,
-      "divisions": []
-    },
-    {
-      "name": "Áslandsskóli",
-      "code": "áslan27",
-      "enrollment": 519,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Hornafjarðar",
-      "code": "horna80",
-      "enrollment": 238,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn á Ísafirði",
-      "code": "ísafi60",
-      "enrollment": 368,
-      "divisions": []
-    },
-    {
-      "name": "Reykhólaskóli",
-      "code": "reykh143",
-      "enrollment": 42,
-      "divisions": []
-    },
-    {
-      "name": "Grímseyjarskóli",
-      "code": "gríms169",
-      "enrollment": 3,
-      "divisions": []
-    },
-    {
-      "name": "Sjálandsskóli",
-      "code": "sjála76",
-      "enrollment": 275,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Grundarfjarðar",
-      "code": "grund112",
-      "enrollment": 97,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskólinn austan Vatna",
-      "code": "vatna132",
-      "enrollment": 65,
-      "divisions": []
-    },
-    {
-      "name": "Háaleitisskóli",
-      "code": "háale25",
-      "enrollment": 521,
-      "divisions": []
-    },
-    {
-      "name": "Hólabrekkuskóli",
-      "code": "hólab26",
-      "enrollment": 520,
-      "divisions": []
-    },
-    {
-      "name": "Oddeyrarskóli",
-      "code": "oddey91",
-      "enrollment": 191,
-      "divisions": []
-    },
-    {
-      "name": "Waldorfskólinn Lækjarbotnum",
-      "code": "lækja124",
-      "enrollment": 77,
-      "divisions": []
-    },
-    {
-      "name": "Hamraskóli",
-      "code": "hamra94",
-      "enrollment": 170,
-      "divisions": []
-    },
-    {
-      "name": "Suðurhlíðarskóli",
-      "code": "suður142",
-      "enrollment": 43,
-      "divisions": []
-    },
-    {
-      "name": "Langholtsskóli",
-      "code": "langh7",
-      "enrollment": 682,
-      "divisions": []
-    },
-    {
-      "name": "Stórutjarnaskóli",
-      "code": "stóru148",
-      "enrollment": 39,
-      "divisions": []
-    },
-    {
-      "name": "Kerhólsskóli",
-      "code": "kerhó150",
-      "enrollment": 36,
-      "divisions": []
-    },
-    {
-      "name": "Bláskógaskóli - Laugarvatni",
-      "code": "lauga139",
-      "enrollment": 51,
-      "divisions": []
-    },
-    {
-      "name": "Hvaleyrarskóli",
-      "code": "hvale48",
-      "enrollment": 410,
-      "divisions": []
-    },
-    {
-      "name": "Háteigsskóli",
-      "code": "hátei42",
-      "enrollment": 451,
-      "divisions": []
-    },
-    {
-      "name": "Hlíðarskóli",
-      "code": "hlíða161",
-      "enrollment": 16,
-      "divisions": []
-    },
-    {
-      "name": "Flataskóli",
-      "code": "flata39",
-      "enrollment": 477,
-      "divisions": []
-    },
-    {
-      "name": "Ártúnsskóli",
-      "code": "ártún93",
-      "enrollment": 185,
-      "divisions": []
-    },
-    {
-      "name": "Barnaskólinn á Eyrarbakka og Stokkseyri",
-      "code": "stokk104",
-      "enrollment": 128,
-      "divisions": []
-    },
-    {
-      "name": "Egilsstaðaskóli",
-      "code": "egils65",
-      "enrollment": 356,
-      "divisions": []
-    },
-    {
-      "name": "Grunnskóli Húnaþings vestra",
-      "code": "vestr98",
-      "enrollment": 151,
-      "divisions": []
-    },
-    {
-      "name": "Þelamerkurskóli",
-      "code": "þelam128",
-      "enrollment": 73,
-      "divisions": []
-    },
-    {
-      "name": "Tjarnarskóli",
-      "code": "tjarn137",
-      "enrollment": 52,
-      "divisions": []
-    },
-    {
-      "name": "Gerðaskóli",
-      "code": "gerða84",
-      "enrollment": 220,
-      "divisions": []
-    },
-    {
-      "name": "Hríseyjarskóli",
-      "code": "hríse163",
-      "enrollment": 13,
-      "divisions": []
-    },
-    {
-      "name": "Kirkjubæjarskóli",
-      "code": "kirkj147",
-      "enrollment": 40,
+      "name": "Grunnskóli Vestmannaeyja",
+      "code": "vestm28",
+      "enrollment": 513,
       "divisions": []
     },
     {
@@ -973,27 +379,51 @@
       "divisions": []
     },
     {
-      "name": "Lundarskóli",
-      "code": "lunda34",
-      "enrollment": 491,
+      "name": "Grunnskólinn á Eskifirði",
+      "code": "eskif99",
+      "enrollment": 150,
       "divisions": []
     },
     {
-      "name": "Setbergsskóli",
-      "code": "setbe44",
-      "enrollment": 420,
+      "name": "Grunnskólinn á Hellu",
+      "code": "hellu107",
+      "enrollment": 119,
       "divisions": []
     },
     {
-      "name": "Grenivíkurskóli",
-      "code": "greni138",
-      "enrollment": 52,
+      "name": "Grunnskólinn á Hólmavík",
+      "code": "hólma141",
+      "enrollment": 44,
       "divisions": []
     },
     {
-      "name": "Álftanesskóli",
-      "code": "álfta53",
-      "enrollment": 398,
+      "name": "Grunnskólinn á Ísafirði",
+      "code": "ísafi60",
+      "enrollment": 368,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn á Raufarhöfn",
+      "code": "raufa164",
+      "enrollment": 11,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn á Tálknafirði",
+      "code": "tálkn146",
+      "enrollment": 40,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn á Þórshöfn",
+      "code": "þórsh125",
+      "enrollment": 76,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn austan Vatna",
+      "code": "vatna132",
+      "enrollment": 65,
       "divisions": []
     },
     {
@@ -1003,9 +433,315 @@
       "divisions": []
     },
     {
-      "name": "Dalvíkurskóli",
-      "code": "dalví85",
-      "enrollment": 218,
+      "name": "Grunnskólinn í Hofgarði",
+      "code": "hofga168",
+      "enrollment": 5,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn í Hveragerði",
+      "code": "hvera59",
+      "enrollment": 370,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn í Sandgerði",
+      "code": "sandg78",
+      "enrollment": 256,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn í Stykkishólmi",
+      "code": "stykk97",
+      "enrollment": 155,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn í Þorlákshöfn",
+      "code": "þorlá83",
+      "enrollment": 221,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn Suðureyri",
+      "code": "suður144",
+      "enrollment": 41,
+      "divisions": []
+    },
+    {
+      "name": "Grunnskólinn Þingeyri",
+      "code": "þinge153",
+      "enrollment": 31,
+      "divisions": []
+    },
+    {
+      "name": "Háaleitisskóli",
+      "code": "háale25",
+      "enrollment": 521,
+      "divisions": []
+    },
+    {
+      "name": "Háaleitisskóli (Reykjanesbæ)",
+      "code": "(reyk74",
+      "enrollment": 290,
+      "divisions": []
+    },
+    {
+      "name": "Hagaskóli",
+      "code": "hagas19",
+      "enrollment": 575,
+      "divisions": []
+    },
+    {
+      "name": "Hamraskóli",
+      "code": "hamra94",
+      "enrollment": 170,
+      "divisions": []
+    },
+    {
+      "name": "Háteigsskóli",
+      "code": "hátei42",
+      "enrollment": 451,
+      "divisions": []
+    },
+    {
+      "name": "Heiðarskóli (Leirársveit)",
+      "code": "(leir115",
+      "enrollment": 94,
+      "divisions": []
+    },
+    {
+      "name": "Heiðarskóli (Reykjanesbæ)",
+      "code": "(reyk49",
+      "enrollment": 406,
+      "divisions": []
+    },
+    {
+      "name": "Hlíðarhúsaskóli",
+      "code": "hlíða170",
+      "enrollment": 14,
+      "divisions": []
+    },
+    {
+      "name": "Hlíðarskóli",
+      "code": "hlíða161",
+      "enrollment": 16,
+      "divisions": []
+    },
+    {
+      "name": "Hlíðaskóli",
+      "code": "hlíða37",
+      "enrollment": 485,
+      "divisions": []
+    },
+    {
+      "name": "Höfðaskóli",
+      "code": "höfða123",
+      "enrollment": 78,
+      "divisions": []
+    },
+    {
+      "name": "Hofsstaðaskóli",
+      "code": "hofss18",
+      "enrollment": 577,
+      "divisions": []
+    },
+    {
+      "name": "Hólabrekkuskóli",
+      "code": "hólab26",
+      "enrollment": 520,
+      "divisions": []
+    },
+    {
+      "name": "Holtaskóli",
+      "code": "holta46",
+      "enrollment": 413,
+      "divisions": []
+    },
+    {
+      "name": "Hörðuvallaskóli",
+      "code": "hörðu2",
+      "enrollment": 922,
+      "divisions": []
+    },
+    {
+      "name": "Hrafnagilsskóli",
+      "code": "hrafn101",
+      "enrollment": 144,
+      "divisions": []
+    },
+    {
+      "name": "Hraunvallaskóli",
+      "code": "hraun3",
+      "enrollment": 798,
+      "divisions": []
+    },
+    {
+      "name": "Hríseyjarskóli",
+      "code": "hríse163",
+      "enrollment": 13,
+      "divisions": []
+    },
+    {
+      "name": "Húnavallaskóli",
+      "code": "húnav149",
+      "enrollment": 37,
+      "divisions": []
+    },
+    {
+      "name": "Húsaskóli",
+      "code": "húsas96",
+      "enrollment": 165,
+      "divisions": []
+    },
+    {
+      "name": "Hvaleyrarskóli",
+      "code": "hvale48",
+      "enrollment": 410,
+      "divisions": []
+    },
+    {
+      "name": "Hvolsskóli",
+      "code": "hvols81",
+      "enrollment": 238,
+      "divisions": []
+    },
+    {
+      "name": "Ingunnarskóli",
+      "code": "ingun56",
+      "enrollment": 391,
+      "divisions": []
+    },
+    {
+      "name": "Kársnesskóli",
+      "code": "kársn17",
+      "enrollment": 583,
+      "divisions": []
+    },
+    {
+      "name": "Kelduskóli",
+      "code": "keldu63",
+      "enrollment": 358,
+      "divisions": []
+    },
+    {
+      "name": "Kerhólsskóli",
+      "code": "kerhó150",
+      "enrollment": 36,
+      "divisions": []
+    },
+    {
+      "name": "Kirkjubæjarskóli",
+      "code": "kirkj147",
+      "enrollment": 40,
+      "divisions": []
+    },
+    {
+      "name": "Klébergsskóli",
+      "code": "klébe105",
+      "enrollment": 125,
+      "divisions": []
+    },
+    {
+      "name": "Klettaskóli",
+      "code": "klett106",
+      "enrollment": 119,
+      "divisions": []
+    },
+    {
+      "name": "Kópavogsskóli",
+      "code": "kópav62",
+      "enrollment": 360,
+      "divisions": []
+    },
+    {
+      "name": "Krikaskóli",
+      "code": "krika108",
+      "enrollment": 109,
+      "divisions": []
+    },
+    {
+      "name": "Lækjarskóli",
+      "code": "lækja33",
+      "enrollment": 498,
+      "divisions": []
+    },
+    {
+      "name": "Lágafellsskóli",
+      "code": "lágaf6",
+      "enrollment": 685,
+      "divisions": []
+    },
+    {
+      "name": "Landakotsskóli",
+      "code": "landa79",
+      "enrollment": 249,
+      "divisions": []
+    },
+    {
+      "name": "Langholtsskóli",
+      "code": "langh7",
+      "enrollment": 682,
+      "divisions": []
+    },
+    {
+      "name": "Laugalækjarskóli",
+      "code": "lauga69",
+      "enrollment": 326,
+      "divisions": []
+    },
+    {
+      "name": "Laugalandsskóli í Holtum",
+      "code": "holtu127",
+      "enrollment": 75,
+      "divisions": []
+    },
+    {
+      "name": "Laugargerðisskóli",
+      "code": "lauga162",
+      "enrollment": 14,
+      "divisions": []
+    },
+    {
+      "name": "Laugarnesskóli",
+      "code": "lauga22",
+      "enrollment": 547,
+      "divisions": []
+    },
+    {
+      "name": "Lindaskóli",
+      "code": "linda36",
+      "enrollment": 488,
+      "divisions": []
+    },
+    {
+      "name": "Lundarskóli",
+      "code": "lunda34",
+      "enrollment": 491,
+      "divisions": []
+    },
+    {
+      "name": "Melaskóli",
+      "code": "melas15",
+      "enrollment": 592,
+      "divisions": []
+    },
+    {
+      "name": "Myllubakkaskóli",
+      "code": "myllu61",
+      "enrollment": 362,
+      "divisions": []
+    },
+    {
+      "name": "Naustaskóli",
+      "code": "naust54",
+      "enrollment": 397,
+      "divisions": []
+    },
+    {
+      "name": "Nesskóli",
+      "code": "nessk87",
+      "enrollment": 217,
       "divisions": []
     },
     {
@@ -1015,9 +751,273 @@
       "divisions": []
     },
     {
-      "name": "Kópavogsskóli",
-      "code": "kópav62",
-      "enrollment": 360,
+      "name": "Norðlingaskóli",
+      "code": "norðl13",
+      "enrollment": 607,
+      "divisions": []
+    },
+    {
+      "name": "Oddeyrarskóli",
+      "code": "oddey91",
+      "enrollment": 191,
+      "divisions": []
+    },
+    {
+      "name": "Ölduselsskóli",
+      "code": "öldus38",
+      "enrollment": 482,
+      "divisions": []
+    },
+    {
+      "name": "Öldutúnsskóli",
+      "code": "öldut20",
+      "enrollment": 568,
+      "divisions": []
+    },
+    {
+      "name": "Öxarfjarðarskóli",
+      "code": "öxarf157",
+      "enrollment": 24,
+      "divisions": []
+    },
+    {
+      "name": "Patreksskóli",
+      "code": "vestu114",
+      "enrollment": 95,
+      "divisions": []
+    },
+    {
+      "name": "Réttarholtsskóli",
+      "code": "rétta57",
+      "enrollment": 391,
+      "divisions": []
+    },
+    {
+      "name": "Reykhólaskóli",
+      "code": "reykh143",
+      "enrollment": 42,
+      "divisions": []
+    },
+    {
+      "name": "Reykjahlíðarskóli",
+      "code": "reykj152",
+      "enrollment": 35,
+      "divisions": []
+    },
+    {
+      "name": "Rimaskóli",
+      "code": "rimas29",
+      "enrollment": 511,
+      "divisions": []
+    },
+    {
+      "name": "Sæmundarskóli",
+      "code": "sæmun35",
+      "enrollment": 489,
+      "divisions": []
+    },
+    {
+      "name": "Salaskóli",
+      "code": "salas16",
+      "enrollment": 587,
+      "divisions": []
+    },
+    {
+      "name": "Selásskóli",
+      "code": "selás88",
+      "enrollment": 206,
+      "divisions": []
+    },
+    {
+      "name": "Seljaskóli",
+      "code": "selja9",
+      "enrollment": 642,
+      "divisions": []
+    },
+    {
+      "name": "Setbergsskóli",
+      "code": "setbe44",
+      "enrollment": 420,
+      "divisions": []
+    },
+    {
+      "name": "Seyðisfjarðarskóli",
+      "code": "seyði130",
+      "enrollment": 71,
+      "divisions": []
+    },
+    {
+      "name": "Síðuskóli",
+      "code": "síðus58",
+      "enrollment": 372,
+      "divisions": []
+    },
+    {
+      "name": "Sjálandsskóli",
+      "code": "sjála76",
+      "enrollment": 275,
+      "divisions": []
+    },
+    {
+      "name": "Skarðshlíðarskóli",
+      "code": "skarð100",
+      "enrollment": 144,
+      "divisions": []
+    },
+    {
+      "name": "Skóli Ísaks Jónssonar",
+      "code": "jónss90",
+      "enrollment": 196,
+      "divisions": []
+    },
+    {
+      "name": "Smáraskóli",
+      "code": "smára47",
+      "enrollment": 412,
+      "divisions": []
+    },
+    {
+      "name": "Snælandsskóli",
+      "code": "snæla43",
+      "enrollment": 432,
+      "divisions": []
+    },
+    {
+      "name": "Stóru-Vogaskóli",
+      "code": "stóru95",
+      "enrollment": 168,
+      "divisions": []
+    },
+    {
+      "name": "Stórutjarnaskóli",
+      "code": "stóru148",
+      "enrollment": 39,
+      "divisions": []
+    },
+    {
+      "name": "Súðavíkurskóli",
+      "code": "súðav156",
+      "enrollment": 24,
+      "divisions": []
+    },
+    {
+      "name": "Suðurhlíðarskóli",
+      "code": "suður142",
+      "enrollment": 43,
+      "divisions": []
+    },
+    {
+      "name": "Sunnulækjarskóli",
+      "code": "sunnu4",
+      "enrollment": 711,
+      "divisions": []
+    },
+    {
+      "name": "Tjarnarskóli",
+      "code": "tjarn137",
+      "enrollment": 52,
+      "divisions": []
+    },
+    {
+      "name": "Urriðaholtsskóli",
+      "code": "urrið158",
+      "enrollment": 21,
+      "divisions": []
+    },
+    {
+      "name": "Vættaskóli",
+      "code": "vætta40",
+      "enrollment": 465,
+      "divisions": []
+    },
+    {
+      "name": "Vallaskóli",
+      "code": "valla14",
+      "enrollment": 607,
+      "divisions": []
+    },
+    {
+      "name": "Valsárskóli",
+      "code": "valsá135",
+      "enrollment": 55,
+      "divisions": []
+    },
+    {
+      "name": "Varmahlíðarskóli",
+      "code": "varma110",
+      "enrollment": 104,
+      "divisions": []
+    },
+    {
+      "name": "Varmárskóli",
+      "code": "varmá1",
+      "enrollment": 931,
+      "divisions": []
+    },
+    {
+      "name": "Vatnsendaskóli",
+      "code": "vatns12",
+      "enrollment": 610,
+      "divisions": []
+    },
+    {
+      "name": "Vesturbæjarskóli",
+      "code": "vestu66",
+      "enrollment": 351,
+      "divisions": []
+    },
+    {
+      "name": "Víðistaðaskóli",
+      "code": "víðis5",
+      "enrollment": 702,
+      "divisions": []
+    },
+    {
+      "name": "Víkurskóli",
+      "code": "mýrda136",
+      "enrollment": 53,
+      "divisions": []
+    },
+    {
+      "name": "Vogaskóli",
+      "code": "vogas72",
+      "enrollment": 309,
+      "divisions": []
+    },
+    {
+      "name": "Vopnafjarðarskóli",
+      "code": "vopna122",
+      "enrollment": 79,
+      "divisions": []
+    },
+    {
+      "name": "Waldorfskólinn Lækjarbotnum",
+      "code": "lækja124",
+      "enrollment": 77,
+      "divisions": []
+    },
+    {
+      "name": "Waldorfskólinn Sólstafir",
+      "code": "sólst119",
+      "enrollment": 91,
+      "divisions": []
+    },
+    {
+      "name": "Þelamerkurskóli",
+      "code": "þelam128",
+      "enrollment": 73,
+      "divisions": []
+    },
+    {
+      "name": "Þingeyjarskóli",
+      "code": "þinge131",
+      "enrollment": 67,
+      "divisions": []
+    },
+    {
+      "name": "Þjórsárskóli",
+      "code": "þjórs140",
+      "enrollment": 46,
       "divisions": []
     }
   ]
