@@ -1019,6 +1019,18 @@
       "code": "þjórs140",
       "enrollment": 46,
       "divisions": []
+    },
+    {
+      "name": "Helgafellsskóli",
+      "code": "olliiii",
+      "enrollment": 153,
+      "divisions": []
+    },
+    {
+      "name": "Stapaskóli",
+      "code": "sunneva",
+      "enrollment": 137,
+      "divisions": []
     }
   ]
 }
