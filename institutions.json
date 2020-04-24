@@ -505,6 +505,12 @@
       "divisions": []
     },
     {
+      "name": "Helgafellsskóli",
+      "code": "olliiii",
+      "enrollment": 153,
+      "divisions": []
+    },
+    {
       "name": "Heiðarskóli (Leirársveit)",
       "code": "(leir115",
       "enrollment": 94,
@@ -883,6 +889,12 @@
       "divisions": []
     },
     {
+      "name": "Stapaskóli",
+      "code": "sunneva",
+      "enrollment": 137,
+      "divisions": []
+    },
+    {
       "name": "Stóru-Vogaskóli",
       "code": "stóru95",
       "enrollment": 168,
@@ -1018,18 +1030,6 @@
       "name": "Þjórsárskóli",
       "code": "þjórs140",
       "enrollment": 46,
-      "divisions": []
-    },
-    {
-      "name": "Helgafellsskóli",
-      "code": "olliiii",
-      "enrollment": 153,
-      "divisions": []
-    },
-    {
-      "name": "Stapaskóli",
-      "code": "sunneva",
-      "enrollment": 137,
       "divisions": []
     }
   ]
